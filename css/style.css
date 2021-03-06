@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    background-color: #f3f3f3;
+}
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.title{
+    background: linear-gradient(90deg, #558bc9, #2a608f,#2a608f,#558bc9);
+    color: #FFFFFF;
+    font-weight: 800;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-container img{
+    width: 150px;
+    border: 1px solid #FFFFFF;
+}
+h1{
+    margin: 0;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.contact{
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+.contact div{
+    margin: 0 10px;
+    font-weight: 300;
+}
