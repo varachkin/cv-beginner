@@ -13,7 +13,7 @@ GSTU named after P.O. Sukhoi<br/>
 2011-2015<br/>
 electronic engineer<br/>
 IT Academy Course Front End<br/>
-Example: [https://github.com/varachkin/varachkin.github.io](https://github.com/varachkin/varachkin.github.io)
+***Example***: [https://github.com/varachkin/varachkin.github.io](https://github.com/varachkin/varachkin.github.io)
 ### Work
 <hr>
 
